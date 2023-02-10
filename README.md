@@ -1,2 +1,2 @@
-# instagram-clone-curso
+# Clone-rede-social
  
